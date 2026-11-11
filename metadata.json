@@ -1,0 +1,6 @@
+{
+  "name": "Nova",
+  "description": "A multi-user AI chat workspace with ignition aesthetic, rich markdown rendering, and collaborative workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
